@@ -5,7 +5,3 @@ function isMobile() {
         return true;
     }
 }
-
-const AlbumImage = document.getElementById("AlbumImage");
-
-AlbumImage.setAttribute("src", "https://wallpapercave.com/fuwp/uwp547287.jpeg")
