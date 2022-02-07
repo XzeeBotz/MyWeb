@@ -6,5 +6,5 @@ Jika kalian ingin saya terus berkarya, bisa dong traktir saya cendol di [Traktee
 
 ## Framework
 
-Utility/Component: [Bootstrap V5](https://getbootstrap.com/)
-Icons: [Boostrap Icons](https://icons.getbootstrap.com/)
+- Utility/Component: [Bootstrap V5](https://getbootstrap.com/)
+- Icons: [Boostrap Icons](https://icons.getbootstrap.com/)
