@@ -8,3 +8,5 @@ Template website album gratis, template ini dibuat menggunakan Boostrap, jika ka
 [![Contributors](https://img.shields.io/github/contributors/lendradx/web-album?label=Contributors&logo=github)](https://github.com/lendradx/web-album)
 
 Jika kalian ingin melihat saya terus berkarya, bisa dong traktir cendol di [Trakteer](https://trakteer.id/lendradx/tip)
+
+**Note: jika tampilan versi mobilenya gk terlalu bagus mohon dimaafkan**
