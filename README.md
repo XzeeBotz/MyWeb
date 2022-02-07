@@ -4,8 +4,8 @@ Template website album gratis, template ini dibuat menggunakan Boostrap, jika ka
 
 [![Stars](https://img.shields.io/github/stars/lendradx/web-album?label=Stars&logo=github)](https://github.com/lendradx/web-album)
 [![Forks](https://img.shields.io/github/forks/lendradx/web-album?label=Forks&logo=github)](https://github.com/lendradx/web-album)
-[![Contributors](https://img.shields.io/github/contributors/lendradx/web-album?label=Contributors&logo=github)](https://github.com/lendradx/web-album)
 [![Size](https://img.shields.io/github/repo-size/lendradx/web-album?label=Size&logo=github)](https://github.com/lendradx/web-album)
+[![Contributors](https://img.shields.io/github/contributors/lendradx/web-album?label=Contributors&logo=github)](https://github.com/lendradx/web-album)
 
 Jika kalian ingin melihat saya terus berkarya, bisa dong traktir cendol di [Trakteer](https://trakteer.id/lendradx/tip)
 
