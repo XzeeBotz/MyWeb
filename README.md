@@ -1,4 +1,4 @@
-<h2>Template Album</h2>
+<h2>Template Album: coming soon!</h2>
 
 [![Stars](https://img.shields.io/github/stars/lendradx/web-album?label=Stars&logo=github)](https://github.com/lendradx/web-album)
 [![Forks](https://img.shields.io/github/forks/lendrad/web-album?label=Forks&logo=github)](https://github.com/lendradx/web-album)
@@ -7,8 +7,6 @@
 
 Template website album gratis, template ini dibuat menggunakan Boostrap, jika kalian suka dengan template ini jangan lupa untuk di star ya, biar saya tahu bahwa kalian menyukai karya saya, jika kalian menemukan bug/kesalahan ditemplatenya jangan senggan untuk membuat issue ditab issue.\
 Jika kalian ingin saya terus berkarya, bisa dong traktir saya cendol di [Trakteer](https://trakteer.id/lendradx/tip)
-
-- Status: coming soon!
 
 ## ⚙️ Framework
 
