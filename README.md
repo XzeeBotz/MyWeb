@@ -1,4 +1,4 @@
-## Template Album: coming soon!
+## Template Album: sedang dikerjakan!
 
 Template website album gratis, template ini dibuat menggunakan Boostrap, jika kalian suka dengan template ini jangan lupa untuk distar ya, biar saya tahu bahwa kalian menyukai karya saya, bila kalian menemukan bug/kesalahan ditemplatenya jangan senggan untuk melapor ditab issues, apabila kalian ingin memodifikasi templatenya silahkan difork reponya.
 
