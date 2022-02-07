@@ -10,3 +10,6 @@ Template website album gratis, template ini dibuat menggunakan Boostrap, jika ka
 Jika kalian ingin melihat saya terus berkarya, bisa dong traktir cendol di [Trakteer](https://trakteer.id/lendradx/tip)
 
 **Note: jika tampilan versi mobilenya gk terlalu bagus mohon dimaafkan**
+
+### Credits
+Image: [WallpaperCave](https://wallpapercave.com)
