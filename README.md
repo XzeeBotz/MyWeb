@@ -2,6 +2,8 @@
 
 Template website album gratis, template ini dibuat menggunakan Boostrap, jika kalian suka dengan template ini jangan lupa untuk distar ya, biar saya tahu bahwa kalian menyukai karya saya, bila kalian menemukan bug/kesalahan ditemplatenya jangan senggan untuk melapor ditab issues, apabila kalian ingin memodifikasi templatenya silahkan difork reponya.
 
+**Jika kalian ingin melihat gambarnya simetris, saya lebih merekomendasikan agar crop ke resolusi yang sama atau sekala yang sama.**
+
 [![Stars](https://img.shields.io/github/stars/lendradx/web-album?label=Stars&logo=github)](https://github.com/lendradx/web-album)
 [![Forks](https://img.shields.io/github/forks/lendradx/web-album?label=Forks&logo=github)](https://github.com/lendradx/web-album)
 [![Size](https://img.shields.io/github/repo-size/lendradx/web-album?label=Size&logo=github)](https://github.com/lendradx/web-album)
