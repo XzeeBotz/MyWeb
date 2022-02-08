@@ -1,0 +1,149 @@
+/* Animation Border */
+.border-underline,
+.border-underline-center,
+.border-underline-right,
+.border-underline-left,
+.border-topline,
+.border-topline-center,
+.border-topline-right,
+.border-topline-left {
+    display: inline-block;
+}
+
+.border-topline-white {
+    border-top-color: white;
+}
+
+.border-topline-black {
+    border-top-color: black;
+}
+
+.border-underline-white {
+    border-bottom-color: white;
+}
+
+.border-underline-black {
+    border-bottom-color: black;
+}
+
+/* border topline section */
+.border-topline::before,
+.border-topline-center::before {
+    border-top-width: 2px;
+    border-top-style: solid;
+    display: block;
+    content: "";
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+.border-topline:hover::before,
+.border-topline-center:hover::before {
+    transform: scaleX(1);
+}
+
+.border-topline-right::before {
+    display: block;
+    content: "";
+    border-top-width: 2px;
+    border-top-style: solid;
+    transform: scaleX(0);
+    transform-origin: 100% 0%;
+    transition: transform 250ms ease-in-out;
+}
+
+.border-topline-left::before {
+    display: block;
+    content: "";
+    border-top-width: 2px;
+    border-top-style: solid;
+    transform: scaleX(0);
+    transform-origin: 0% 100%;
+    transition: transform 250ms ease-in-out;
+}
+
+
+.border-topline-right:hover::before {
+    transform: scaleX(1);
+    transform-origin: 100% 0%;
+}
+
+.border-topline-left:hover::before {
+    transform: scaleX(1);
+    transform-origin: 0% 100%;
+}
+
+/* on active */
+.border-topline.active::before
+.border-topline-center.active::before,
+.border-topline-left.active::before,
+.border-topline-right.active::before {
+    transform: scaleX(1);
+}
+
+.border-topline.active:hover::before,
+.border-topline-center.active:hover::before,
+.border-topline-left.active:hover::before,
+.border-topline-right.active:hover::before {
+    transform: scaleX(0);
+}
+
+/* border underline section */
+.border-underline::after,
+.border-underline-center::after {
+    display: block;
+    content: "";
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+.border-underline:hover::after,
+.border-underline-center:hover::after {
+    transform: scaleX(1);
+}
+
+.border-underline-right::after {
+    display: block;
+    content: "";
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    transform: scaleX(0);
+    transform-origin: 100% 0%;
+    transition: transform 250ms ease-in-out;
+}
+
+.border-underline-right:hover::after {
+    transform: scaleX(1);
+    transform-origin: 100% 0%;
+}
+
+.border-underline-left::after {
+    display: block;
+    content: "";
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    transform: scaleX(0);
+    transform-origin: 0% 100%;
+    transition: transform 250ms ease-in-out;
+}
+
+.border-underline-left:hover::after {
+    transform: scaleX(1);
+    transform-origin: 0% 100%;
+}
+
+.border-underline.active::after,
+.border-underline-left.active::after,
+.border-underline-right.active::after,
+.border-underline-center.active::after {
+    transform: scaleX(1);
+}
+
+.border-underline.active:hover::after,
+.border-underline-left.active:hover::after,
+.border-underline-right.active:hover::after,
+.border-underline-center.active:hover::after {
+    transform: scaleX(0);
+}
