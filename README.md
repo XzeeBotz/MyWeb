@@ -4,6 +4,8 @@ Template website album gratis, template ini dibuat menggunakan Boostrap, jika ka
 
 **Jika kalian ingin melihat gambarnya simetris, saya lebih merekomendasikan agar crop ke resolusi yang sama atau skala yang sama.**
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flendradx%2Fweb-album&project-name=your-name-album&repo-name=web-album)
+
 [![Stars](https://img.shields.io/github/stars/lendradx/web-album?label=Stars&logo=github)](https://github.com/lendradx/web-album)
 [![Forks](https://img.shields.io/github/forks/lendradx/web-album?label=Forks&logo=github)](https://github.com/lendradx/web-album)
 [![Size](https://img.shields.io/github/repo-size/lendradx/web-album?label=Size&logo=github)](https://github.com/lendradx/web-album)
