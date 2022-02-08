@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Template Album</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.min.css">
 </head>
 <body>
@@ -20,11 +21,10 @@
         </nav>
     </header>
     <main>
-        <!-- Album desktop and tablet version -->
-        <section id="images" class="bg-dark d-lg-flex d-none d-md-flex d-sm-flex">
+        <!-- Desktop Version -->
+        <section id="images" class="bg-dark d-lg-flex d-none d-md-none d-sm-none">
             <div class="container">
-                <div
-                    class="row g-4 py-4 row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3 d-flex justify-content-center">
+                <div class="row g-4 py-4 row-cols-3 d-flex justify-content-center">
                     <div class="col">
                         <img src="https://wallpapercave.com/fuwp/uwp542608.jpeg" class="img-fluid img-album">
                     </div>
@@ -46,13 +46,40 @@
                 </div>
             </div>
         </section>
-        <!-- End Album desktop and tablet version -->
-        <!-- Album mobile version -->
+        <!-- End Desktop version-->
+        <!-- Tablet Version -->
+        <section id="images" class="d-lg-none d-md-flex d-sm-none d-none bg-dark text-white">
+            <div class="container">
+                <div class="row g-4 py-4 row-cols-2 d-flex justify-content-center">
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp542608.jpeg" class="img-fluid img-album">
+                    </div>
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp1872345.jpeg" class="img-fluid img-album">
+                    </div>
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp1836344.jpeg" class="img-fluid img-album">
+                    </div>
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp460511.jpeg" class="img-fluid img-album">
+                    </div>
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp408536.jpeg" class="img-fluid img-album">
+                    </div>
+                    <div class="col">
+                        <img src="https://wallpapercave.com/fuwp/uwp583306.png" class="img-fluid img-album">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Tablet Version -->
+        <!-- Mobile version -->
         <section id="images" class="d-lg-none d-md-none d-flex bg-dark text-white">
             <div class="container">
                 <div class="row py-4 g-3">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="https://wallpapercave.com/fuwp/uwp583306.png" id="AlbumImage" class="img-fluid img-album">
+                        <img src="https://wallpapercave.com/fuwp/uwp583306.png" id="AlbumImage"
+                            class="img-fluid img-album">
                     </div>
                     <div class="col-12 d-flex justify-content-center">
                         <img src="https://wallpapercave.com/fuwp/uwp583306.png" alt="" class="img-fluid img-album">
@@ -67,9 +94,10 @@
                 </div>
             </div>
         </section>
-        <!-- End Album mobile version -->
+        <!-- End Mobile version -->
     </main>
     <script src="/js/scripts.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
