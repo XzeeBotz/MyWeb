@@ -17,9 +17,21 @@
     transition: transform 250ms ease-in-out;
 }
 
-.toggler-icon {
+.toggler-nav {
     background-color: white;
-    color: rgb(56, 56, 56);
+    border-radius: 8px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0px 0px 8px 1px black;
+    width: 80%;
+    text-align: center;
+    filter: brightness(80%);
+}
+
+.toggler-icon {
+    color: grey;
     transition: color 250ms ease-in-out;
 }
 
