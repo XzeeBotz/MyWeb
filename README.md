@@ -1,4 +1,4 @@
-## Template Album: sedang dikerjakan!
+## Template Album
 
 Template website album gratis, template ini dibuat menggunakan Boostrap, jika kalian suka dengan template ini jangan lupa untuk distar ya, biar saya tahu bahwa kalian menyukai karya saya, bila kalian menemukan bug/kesalahan ditemplatenya jangan senggan untuk melapor ditab issues, apabila kalian ingin memodifikasi templatenya silahkan difork reponya.
 
@@ -8,7 +8,7 @@ Template website album gratis, template ini dibuat menggunakan Boostrap, jika ka
 
 Jika kalian ingin melihat saya terus berkarya, bisa dong traktir cendol di [Trakteer](https://trakteer.id/lendradx/tip)
 
-**Note: jika tampilan versi mobilenya gk terlalu bagus mohon dimaafkan**
+**Note: mohon maaf jika tampilannya kurang bagus :/**
 
 [![Stars](https://img.shields.io/github/stars/lendradx/web-album?label=Stars&logo=github)](https://github.com/lendradx/web-album)
 [![Forks](https://img.shields.io/github/forks/lendradx/web-album?label=Forks&logo=github)](https://github.com/lendradx/web-album)
